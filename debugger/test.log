@@ -1,0 +1,29 @@
+INFO:root:log this line execustion
+INFO:root:this is my print
+INFO:root:log this line execustion
+INFO:root:this is my print
+INFO:root:log this line execustion
+INFO:root:this is my print
+WARNING:root:this is wraning log
+ERROR:root:this is my error
+CRITICAL:root:this is criticqal
+INFO:root:this is my info
+ERROR:root:this is my error
+CRITICAL:root:this is my circitical
+CRITICAL:root:this is criticqal
+CRITICAL:root:this is criticqal
+INFO:root:this is my info
+ERROR:root:this is my error
+CRITICAL:root:this is my circitical
+INFO:root:log this line execustion
+INFO:root:this is my print
+WARNING:root:this is wraning log
+ERROR:root:this is my error
+CRITICAL:root:this is criticqal
+INFO:root:this is my info
+ERROR:root:this is my error
+CRITICAL:root:this is my circitical
+CRITICAL:root:this is criticqal
+INFO:root:this is my info
+ERROR:root:this is my error
+CRITICAL:root:this is my circitical
